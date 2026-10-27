@@ -1,4 +1,4 @@
-# Hi, I'm Valentyn 👋
+# Hi, I'm Valentyn Hrodiuk 👋
 ### Web Scraping & Backend Developer (Go & Python)
 
 [![Go](https://img.shields.io/badge/Go-1.24%2B-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org)
@@ -6,6 +6,7 @@
 [![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev)
 [![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-Passing-success?style=flat&logo=githubactions&logoColor=white)](https://github.com/guidiguidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentyn-hrodiuk-85025a447/)
 
 ---
 
@@ -42,5 +43,6 @@ I love reverse-engineering web targets, taking apart private APIs, and building 
 ### 📬 Contact
 
 - **Email:** [guidiclub@gmail.com](mailto:guidiclub@gmail.com)
+- **LinkedIn:** [linkedin.com/in/valentyn-hrodiuk-85025a447](https://www.linkedin.com/in/valentyn-hrodiuk-85025a447/)
 - **GitHub:** [github.com/guidiguidi](https://github.com/guidiguidi)
 - **Status:** Open to **Warsaw Hybrid** (ready to relocate) or **Remote B2B** opportunities.
