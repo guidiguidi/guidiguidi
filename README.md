@@ -23,8 +23,11 @@ I love reverse-engineering web targets, taking apart private APIs, and building 
 
 ### 🛠️ Projects
 
+- [**unifeed-marketplace-core**](https://github.com/guidiguidi/unifeed-marketplace-core) — High-concurrency Go aggregator for East Asian resale markets featuring Mercari JP ephemeral ECDSA P-256 / ES256 DPoP signing, Yahoo Auctions DOM parsing, and Bunjang API ingestion.
+- [**olx-graphql-monitor**](https://github.com/guidiguidi/olx-graphql-monitor) — Hybrid OLX monitor with `chromedp` session warmup, private GraphQL query ingestion, and pure-Go SQLite deduplication.
 - [**depop-tls-scraper**](https://github.com/guidiguidi/depop-tls-scraper) — Fast Go scraper using JA3/JA4 TLS spoofing to bypass Cloudflare without launching a browser. Thread-safe deduplication cache and CI test suite.
 - [**xianyu-mtop-scraper**](https://github.com/guidiguidi/xianyu-mtop-scraper) — Reverse-engineered Alibaba Xianyu (Goofish) MTOP API with client-side MD5 signing, dynamic proxy rotation, and Playwright session self-healing.
+- [**lens-cloak**](https://github.com/guidiguidi/lens-cloak) — Adversarial perturbation & metadata sanitization engine evading AI visual search crawlers (Google Lens, PimEyes) with Python CLI & Web Canvas Studio.
 - [**x-stealth-automation**](https://github.com/guidiguidi/x-stealth-automation) — Stealth automation agent built on Camoufox (C++ modified Firefox) and Playwright for bypassing bot detection heuristics.
 - [**etsy-api-pipeline**](https://github.com/guidiguidi/etsy-api-pipeline) — Concurrent listing pipeline in Go with worker pools, OAuth2 PKCE flow, filtering, and database storage.
 - [**polymarket-intelligence**](https://github.com/guidiguidi/polymarket-intelligence) — Prediction market data crawler with cursor pagination, rate-limiting, and exponential backoff.
